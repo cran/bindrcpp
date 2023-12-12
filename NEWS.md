@@ -1,3 +1,16 @@
+<!-- NEWS.md is maintained by https://fledge.cynkra.com, contributors should not edit this file -->
+
+# bindrcpp 0.2.3 (2023-12-11)
+
+## Bugfix
+
+- Fix `-Wformat-security` warning with R-devel
+
+## Chore
+
+- Install Rcpp from GitHub for CI/CD.
+
+
 # bindrcpp 0.2.2 (2018-03-29)
 
 - Fix compatibility with dplyr installed and built against an older version of bindrcpp.
